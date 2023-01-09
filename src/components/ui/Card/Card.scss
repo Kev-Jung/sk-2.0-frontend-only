@@ -1,0 +1,25 @@
+.card {
+  cursor: pointer;
+  background-color: #fff;
+  flex-basis: 100%;
+  min-width: 250px;
+  font-size: .8rem;
+  transition: 500ms;
+  box-shadow: var(--box-shadow);
+
+  .product-info {
+    padding: 20px;
+
+    .name {
+      padding-bottom: 10px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .price {
+      font-family: var(--secondary-font);
+      font-size: 1rem;
+    }
+  }
+}
