@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sk-2.0-frontend-only/static/css/main.33fe2e11.css",
-    "main.js": "/sk-2.0-frontend-only/static/js/main.43351fb5.js",
+    "main.css": "/sk-2.0-frontend-only/static/css/main.243be97f.css",
+    "main.js": "/sk-2.0-frontend-only/static/js/main.e7a96b42.js",
     "static/media/letter-husband-wife.png": "/sk-2.0-frontend-only/static/media/letter-husband-wife.44fa09cbb08abee87999.png",
     "static/media/to-my-future.png": "/sk-2.0-frontend-only/static/media/to-my-future.1e9679913fec880d041a.png",
     "static/media/mother-father-in-law.png": "/sk-2.0-frontend-only/static/media/mother-father-in-law.f1940d4eafc25625a11f.png",
@@ -49,11 +49,11 @@
     "static/media/instagram.svg": "/sk-2.0-frontend-only/static/media/instagram.c2056460bbbf6c051f72df6d7c2fa6dc.svg",
     "static/media/email.svg": "/sk-2.0-frontend-only/static/media/email.e097336f4e33827be942e2c35296dbca.svg",
     "index.html": "/sk-2.0-frontend-only/index.html",
-    "main.33fe2e11.css.map": "/sk-2.0-frontend-only/static/css/main.33fe2e11.css.map",
-    "main.43351fb5.js.map": "/sk-2.0-frontend-only/static/js/main.43351fb5.js.map"
+    "main.243be97f.css.map": "/sk-2.0-frontend-only/static/css/main.243be97f.css.map",
+    "main.e7a96b42.js.map": "/sk-2.0-frontend-only/static/js/main.e7a96b42.js.map"
   },
   "entrypoints": [
-    "static/css/main.33fe2e11.css",
-    "static/js/main.43351fb5.js"
+    "static/css/main.243be97f.css",
+    "static/js/main.e7a96b42.js"
   ]
 }
